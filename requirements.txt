@@ -1,0 +1,5 @@
+python-dotenv
+paramiko
+requests
+mojang
+git+https://github.com/Pycord-Development/pycord
