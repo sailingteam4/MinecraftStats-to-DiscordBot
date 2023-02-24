@@ -34,6 +34,6 @@ The following commands are available:
 - `/card <pseudo>` - get a card of all the statistics of a player
 - `/timeld` - display the players time leaderboard
 - `/jumpld` - display the players jump leaderboard
-and it's the same for the other commands `bellld`, `brokenld`, `distanceld`, `minedld`, `deadld`, `killedld` and `craftedld`
+- and it's the same for the other commands `bellld`, `brokenld`, `distanceld`, `minedld`, `deadld`, `killedld` and `craftedld`
 
 Replace `<pseudo>` with the Minecraft username of the player you want to retrieve the stats for.
