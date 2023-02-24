@@ -16,7 +16,7 @@ To use this bot, you'll need to do the following:
     - `USER` - the SFTP user for the Minecraft server
     - `PASS` - the SFTP password for the Minecraft server
     - `PORT` - the SFTP port for the Minecraft server
-6. Run the `bot.py` file
+6. Run the `discordstats.py` file
 
 ## Commands
 
