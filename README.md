@@ -8,7 +8,7 @@ To use this bot, you'll need to do the following:
 
 1. Install Python 3.6 or above
 2. Clone the repo `git clone https://github.com/sailingteam4/MinecraftStats-to-DiscordBot`
-4. Install the required dependencies: `discord`, `paramiko`, `requests`, `mojang` and `python-dotenv`. You can do that with `pip install -r requirements.txt`
+4. Install the required dependencies you can do that with `pip install -r requirements.txt`
 4. Set up a Discord bot and obtain its token
 5. Set up a `.env` file with the following environment variables:
     - `DISCORD_TOKEN` - the bot token
