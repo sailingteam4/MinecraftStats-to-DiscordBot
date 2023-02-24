@@ -31,9 +31,13 @@ The following commands are available:
 - `/broke <pseudo>` - get the number of tools broken by a player
 - `/killed <pseudo>` - get the number of monsters killed by a player
 - `/crafted <pseudo>` - get the number of items crafted by a player
-- `/card <pseudo>` - get a card of all the statistics of a player
-- `/timeld` - display the players time leaderboard
-- `/jumpld` - display the players jump leaderboard
-- and it's the same for the other commands `bellld`, `brokenld`, `distanceld`, `minedld`, `deadld`, `killedld` and `craftedld`
 
 Replace `<pseudo>` with the Minecraft username of the player you want to retrieve the stats for.
+
+- `/card <pseudo>` - get a card of all the statistics of a player
+
+- `/timeld` - display the players time leaderboard
+- `/jumpld` - display the players jump leaderboard
+- It's the same for the other commands `bellld`, `brokenld`, `distanceld`, `minedld`, `deadld`, `killedld` and `craftedld`
+
+If you have any ideas, feel free to suggest modifications
