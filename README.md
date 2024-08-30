@@ -2,6 +2,10 @@
 
 This is a Discord bot that can get stats of players on a Minecraft server. The bot has several commands to retrieve stats for different categories such as time played, distance traveled, and items crafted.
 
+
+## ⚠️ COMPLETE REWORK ⚠️
+This project is under a complete rework, the code is being rewritten to be more efficient and more readable. The new version will be available soon.
+
 ## Installation
 
 To use this bot, you'll need to do the following:
